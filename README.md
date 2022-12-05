@@ -4,7 +4,7 @@ This is the repository for the BunnyBots 2022 scoring system: Bawk Board
 
 Make a data folder, containing an teams.json and matches.json files with: [] in them.
 
-You also need to create a event.json file inside your data foler, containing: {currentMatchID:"qm1"}.
+You also need to create a event.json file inside your data folder, containing: {currentMatchID:"qm1"}.
 
 Make a secrests.js file, containing:
 
